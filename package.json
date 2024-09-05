@@ -1,0 +1,29 @@
+{
+  "name": "@shubhamcdx/react-common-utility",
+  "version": "1.0.0",
+  "description": "This Package contains all utility functions, Components, hooks and more that are used in daily life of a React Developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamshubhamcodex/react-common-utility.git"
+  },
+  "keywords": [
+    "React",
+    "Utility",
+    "Hooks",
+    "Components",
+    "Functions"
+  ],
+  "author": "Shubham Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamshubhamcodex/react-common-utility/issues"
+  },
+  "homepage": "https://github.com/iamshubhamcodex/react-common-utility#readme",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
